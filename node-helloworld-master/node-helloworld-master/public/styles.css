@@ -1,0 +1,156 @@
+
+.banner {
+	height: 200px;
+	background-color: #264F93;
+}
+.whitetitle {
+	padding: 45px;
+	color: white;
+}
+
+#content {
+	text-align: center;
+}
+
+.ibm {
+	font-size: 1.875em;
+	-webkit-text-size-adjust:auto;
+}
+
+.video {
+	font-size: 1.38em;
+	max-width: 650px;
+    -webkit-text-size-adjust:auto;
+    padding-bottom: 15px;
+    padding-left: 350px;
+    line-height: 1.625em;
+}
+hr {
+	width: 7%;
+}
+#content .video-container iframe{
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	
+}
+#content .video-container {
+    position: relative;
+    padding-bottom: 0; 
+    height: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.quote {
+	text-align: center;
+	background-color: #F8F8F8;
+	width: 100%;
+	height: 280px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.quotation {
+	min-width: 78px;
+	max-width: 10vw;
+	left: 13vw;
+	position: absolute;
+	top: 1vw;
+}
+
+.cont {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.words {
+	font-size: 1.38em;
+	padding-left: 10px;
+}
+.author {
+	font-size: 1.2em;
+}
+
+.anniversary{
+	text-align: center;
+	font-size: 1.875em;
+}
+
+.container {
+	text-align: center;
+}
+
+.container .text{
+	text-align: left;
+	padding-left: 2.6vw;
+	padding-bottom: 180px;
+
+}
+
+.container .text .heading{
+	max-width: 39.6875vw;
+	min-width: 270px;
+	font-size: 1.2em;
+}
+
+.container .text .paragraph {
+	max-width: 39.6875vw;
+	min-width: 270px;
+}
+
+.container .text2{
+	text-align: left;
+	padding-left: 2.6vw;
+	padding-bottom:180px;
+}
+
+.container .text2 .heading{
+	max-width: 39.6875vw;
+	min-width: 270px;
+	font-size: 1.2em;
+}
+
+.container .text2 .paragraph {
+	max-width: 39.6875vw;
+	min-width: 270px;
+}
+
+.container .text3{
+	text-align: left;
+	padding-left: 2.6vw;
+	padding-bottom:180px;
+}
+.container .text3 .heading{
+	max-width: 39.6875vw;
+	min-width: 270px;
+	font-size: 1.2em;
+}
+
+.container .text3 .paragraph {
+	max-width: 39.6875vw;
+	min-width: 270px;
+}
+
+.learn_more_bunner {
+	background-color: #264E93;
+	height: 160px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.learn_more_title {
+	font-size: 1.7em;
+	color: white;
+}
+.button {
+	background-color: white;
+	color: black;
+	text-decoration: none;
+	padding: 12px 28px;
+	border: 2px;
+	font-size: 14px;
+	display: inline-block;
+}
